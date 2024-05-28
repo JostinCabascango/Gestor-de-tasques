@@ -1,0 +1,15 @@
+/* Home.css */
+.home-container {
+    background-color: #f8f9fa; 
+    padding: 2rem 0; 
+    text-align: center; 
+}
+
+.home-container h1 {
+    color: #343a40;
+    margin-bottom: 1rem; 
+}
+
+.home-container p {
+    color: #6c757d;
+}
